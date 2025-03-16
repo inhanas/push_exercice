@@ -6,3 +6,6 @@ Intouchable
 Toto
 watermelon
 Apple
+Orange
+Strawberry
+Kiwi
